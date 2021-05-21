@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Sarawut Kengkan
-- 👀 I’m seeking for job as developer
-- 🌱 I’m currently learning python, javascript and other framworks.
-- 📫 How to reach me : bussarawut@icloud.com
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+  - 👋 Hi, I’m Sarawut Kengkan
+  - 👀 I’m seeking for job as developer
+  - 🌱 I’m currently learning python, javascript and other framworks.
+  - 📫 How to reach me : bussarawut@icloud.com
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sarawut-kengkan-a398771a8/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
