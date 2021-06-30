@@ -2,7 +2,7 @@
 
   - 👋  **Hi, I’m Sarawut Kengkan (Bas)**
   - 👀  I’m seeking for job as developer
-  - 🌱  I’m currently got skill on python, javascript and Typescript.
+  - 🌱  I’m currently got skill on Python | Javascript | Typescript | Angular framework.
   - 📫  How to reach me : bussarawut@icloud.com
 
 <p align="center">
