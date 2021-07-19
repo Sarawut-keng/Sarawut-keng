@@ -4,6 +4,7 @@
   - 👀  I’m seeking for job as developer
   - 🌱  I’m currently got skill on Python | Javascript | Typescript | Angular framework.
   - 📫  How to reach me : bussarawut@icloud.com
+  - 📄  Resume: https://sarawut-keng.github.io/learnAngular-resume-v1/
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarawut-kengkan-a398771a8/" target="_blank">
