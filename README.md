@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></p>
 
   - 👋  **Hi, I’m Sarawut Kengkan (Bas)**
-  - 👀  I’m seeking for job as developer
+  - 👀  I’m junior developer at Charoen Pokphand Foods
   - 🌱  I’m currently got skill on Python | Javascript | Typescript | Angular | Flutter
   - 📫  How to reach me : bussarawut@icloud.com
   - 📄  Resume: https://sarawut-keng.github.io/learnAngular-resume-v1/
