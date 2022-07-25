@@ -1,8 +1,9 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></p>
 
-  - 👋  **Hi, I’m Sarawut Kengkan (Bas)**
-  - 👀  I’m junior developer at Charoen Pokphand Foods
-  - 🌱  I’m currently got skill on Python | Javascript | Typescript | Angular | Flutter
+  - 👋  **Hi, My name is Sarawut Kengkan (Bas)**
+  - 👀  I’m a Software developer at Charoen Pokphand Foods
+  - 🧰  Framworks that I currently work on is React(NextJS) && Node(ExpressJS) && Flutter
+  - 🌱  I’m currently got skill on Python && Javascript && Typescript && Dart
   - 📫  How to reach me : bussarawut@icloud.com
   - 📄  Resume: https://sarawut-keng.github.io/learnAngular-resume-v1/
 
