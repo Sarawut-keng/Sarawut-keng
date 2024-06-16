@@ -4,7 +4,7 @@
   - 👀  I’m a Software developer at AXONS
   - 🧰  React(NextJS) && .NET(C#) && Flutter
   - 📫  How to reach me : bussarawut@icloud.com
-  - 📄  Resume: (Dev Card)[https://resume-nextjs-shadcn-i31gowcpt-sarawut-kengkans-projects.vercel.app/]
+  - 📄  Resume: https://resume-nextjs-shadcn-i31gowcpt-sarawut-kengkans-projects.vercel.app/
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarawut-kengkan-a398771a8/" target="_blank">
